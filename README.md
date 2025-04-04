@@ -4,17 +4,14 @@
 
 ## Installation
 
-Once the plugin is built, the installable ZIP file will be located in the `build/distributions` directory.
+1. Download the ZIP file located in: /distributions/RenameCurrentCommit-Plugin.zip
+2. Open **IntelliJ IDEA**.
+3. Navigate to **Settings > Plugins**.
+4. Click the ⚙️ **gear icon** > **Install Plugin from Disk...**
+5. Select the ZIP file mentioned in first step.
+6. Restart IntelliJ IDEA if prompted.
 
-### To install the plugin in IntelliJ IDEA:
-
-1. Open **IntelliJ IDEA**.
-2. Navigate to **Settings > Plugins**.
-3. Click the ⚙️ **gear icon** > **Install Plugin from Disk...**
-4. Select the ZIP file located in: /distributions/RenameCurrentCommit-Plugin.zip
-5. Restart IntelliJ IDEA if prompted.
-
-The plugin can then be accessed from the **VCS** menu group, or by searching for **Rename Commit** in **Find Action** (`Ctrl+Shift+A`).
+The plugin can then be accessed from the **Git** menu group, or by searching for **Rename Commit**.
 
 ## Edge Cases Covered
 
