@@ -1,0 +1,59 @@
+{
+  "appInfo" : {
+    "build" : "232.10335.12",
+    "buildDate" : "2024-09-05T12:31:54.335Z[UTC]",
+    "productCode" : "IC",
+    "generated" : "2025-04-04T10:10:15.205291Z",
+    "os" : "macOS 15.3.2",
+    "runtime" : "JetBrains s.r.o. 17.0.12 17.0.12+7-b1000.54"
+  },
+  "runtimeInfo" : {
+    "maxMemory" : 2147483648,
+    "numberOfProcessors" : 8,
+    "maxNumberOfIndexingThreads" : 7,
+    "maxSizeOfFileForIntelliSense" : 2560000,
+    "maxSizeOfFileForContentLoading" : 20971520
+  },
+  "type" : "Scanning",
+  "projectIndexingActivityHistory" : {
+    "projectName" : "untitled1",
+    "times" : {
+      "scanningReason" : "changes in: \"JDK corretto-21 /Users/Andjelina.Maksimovic/Library/Java/JavaVirtualMachines/corretto-21.0.6/Contents/Home\"",
+      "scanningType" : "PARTIAL",
+      "scanningId" : 1,
+      "creatingIteratorsTime" : 3000,
+      "collectingIndexableFilesTime" : 2236227000,
+      "delayedPushPropertiesStageTime" : 8000,
+      "indexExtensionsTime" : 95552733,
+      "dumbModeStart" : "2025-04-04T10:10:12.967609Z",
+      "dumbWallTimeWithPauses" : 2237228000,
+      "dumbWallTimeWithoutPauses" : 2237228000,
+      "updatingStart" : "2025-04-04T10:10:12.967098Z",
+      "updatingEnd" : "2025-04-04T10:10:15.204837Z",
+      "totalWallTimeWithPauses" : 2237743584,
+      "wallTimeOnPause" : 0,
+      "wasInterrupted" : false,
+      "totalWallTimeWithoutPauses" : 2237743584
+    },
+    "fileCount" : {
+      "numberOfFileProviders" : 1,
+      "numberOfScannedFiles" : 44417,
+      "numberOfFilesIndexedByInfrastructureExtensionsDuringScan" : 0,
+      "numberOfFilesScheduledForIndexingAfterScan" : 44087
+    },
+    "scanningStatistics" : [ {
+      "providerName" : "JDK corretto-21 /Users/Andjelina.Maksimovic/Library/Java/JavaVirtualMachines/corretto-21.0.6/Contents/Home",
+      "numberOfScannedFiles" : 44417,
+      "numberOfSkippedFiles" : 0,
+      "numberOfFilesForIndexing" : 44087,
+      "numberOfFilesFullyIndexedByInfrastructureExtensions" : 0,
+      "filesFullyIndexedByInfrastructureExtensions" : [ ],
+      "statusTime" : 949056126,
+      "scanningTime" : 1079728981,
+      "timeProcessingUpToDateFiles" : 0,
+      "timeUpdatingContentLessIndexes" : 430056383,
+      "timeIndexingWithoutContentViaInfrastructureExtension" : 95552733,
+      "roots" : [ ]
+    } ]
+  }
+}

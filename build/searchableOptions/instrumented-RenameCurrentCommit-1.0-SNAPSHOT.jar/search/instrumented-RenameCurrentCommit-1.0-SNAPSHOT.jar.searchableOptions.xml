@@ -1,0 +1,9 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="commit" path="ActionManager" hit="Rename Commit" />
+    <option name="rename" path="ActionManager" hit="Rename Commit" />
+    <option name="commit" path="ActionManager" hit="Renaming current commit" />
+    <option name="current" path="ActionManager" hit="Renaming current commit" />
+    <option name="renaming" path="ActionManager" hit="Renaming current commit" />
+  </configurable>
+</options>

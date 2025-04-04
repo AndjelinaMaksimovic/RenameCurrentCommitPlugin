@@ -1,0 +1,12 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Desktop" value="true" />
+        <entry key="$USER_HOME$/Desktop/projects/ProbaZaKomit" value="true" />
+        <entry key="$USER_HOME$/Desktop/projects/untitled1" value="true" />
+        <entry key="$USER_HOME$/Desktop/projects/untitled2" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

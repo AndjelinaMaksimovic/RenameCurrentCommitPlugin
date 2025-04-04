@@ -1,0 +1,14 @@
+<conversion>
+  <applied-converters>
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="rules-persistent-state-converter" />
+  </applied-converters>
+  <project-files>
+    <f p="./.idea/gradle.xml" t="1743761246" />
+    <f p="./.idea/jarRepositories.xml" t="1743761519" />
+    <f p="./.idea/misc.xml" t="1743797292" />
+    <f p="./.idea/workspace.xml" t="1743797046" />
+    <f p="./.idea/compiler.xml" t="1743761231" />
+    <f p="./.idea/vcs.xml" t="1743764804" />
+  </project-files>
+</conversion>

@@ -1,0 +1,53 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/projects/untitled2">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled2" projectWorkspaceId="2vGHsXzkAcN6m13noyXlkDlUCQS">
+              <option name="activationTimestamp" value="1743796688828" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10335.12" />
+              <option name="buildTimestamp" value="1725539465422" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="35" y="58" width="1400" height="789" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743796689448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/projects/untitled1">
+          <value>
+            <RecentProjectMetaInfo frameTitle="untitled1" projectWorkspaceId="2vGAo1GpPoHhVij1R0ZltrU6E29">
+              <option name="activationTimestamp" value="1743797296826" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10335.12" />
+              <option name="buildTimestamp" value="1725539469566" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="35" y="58" width="1400" height="789" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743797293328" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Desktop/projects/ProbaZaKomit">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2uuz4Eue6u3rrJLW3ll1OOWXR4j">
+              <option name="activationTimestamp" value="1743797403548" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-232.10335.12" />
+              <option name="buildTimestamp" value="1725539512816" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1743797404905" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Desktop/projects/ProbaZaKomit" />
+  </component>
+</application>
