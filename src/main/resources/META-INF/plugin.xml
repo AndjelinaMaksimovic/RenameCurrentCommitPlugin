@@ -1,11 +1,11 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
-    <id>com.my.plugin.RenameCurrentCommit</id>
+    <id>com.my.plugin.RenameCurrentCommitPlugin</id>
 
     <!-- Public plugin name should be written in Title Case.
          Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
-    <name>RenameCurrentCommit</name>
+    <name>RenameCurrentCommitPlugin</name>
 
     <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="support@yourcompany.com" url="https://www.yourcompany.com">YourCompany</vendor>
@@ -27,4 +27,13 @@
     <extensions defaultExtensionNs="com.intellij">
 
     </extensions>
+
+    <actions>
+        <action class="actions.RenameCurrentCommitAction" id="actions.RenameCurrentCommitAction"
+                text="Rename Commit" description="Renaming current commit" >
+            <add-to-group group-id="VcsGroups" anchor="first"/>
+        </action>
+
+
+    </actions>
 </idea-plugin>

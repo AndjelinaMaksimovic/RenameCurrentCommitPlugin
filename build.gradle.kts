@@ -12,12 +12,10 @@ repositories {
 }
 
 // Configure Gradle IntelliJ Plugin
-// Read more: https://plugins.jetbrains.com/docs/intellij/tools-gradle-intellij-plugin.html
 intellij {
-    version.set("2023.2.8")
-    type.set("IC") // Target IDE Platform
-
-    plugins.set(listOf(/* Plugin Dependencies */))
+    version.set("2023.2.8") // Matches your IntelliJ version
+    type.set("IC") // Target IntelliJ Community Edition
+    plugins.set(listOf("Git4Idea")) // Removed Android support since it's not needed
 }
 
 tasks {
@@ -32,7 +30,7 @@ tasks {
 
     patchPluginXml {
         sinceBuild.set("232")
-        untilBuild.set("242.*")
+        untilBuild.set("243.*") // Matches your IntelliJ version to avoid compatibility issues
     }
 
     signPlugin {
@@ -44,4 +42,9 @@ tasks {
     publishPlugin {
         token.set(System.getenv("PUBLISH_TOKEN"))
     }
+}
+
+dependencies {
+    implementation("org.eclipse.jgit:org.eclipse.jgit:6.7.0.202309050840-r") // Updated JGit to latest version
+    implementation("org.slf4j:slf4j-simple:2.0.9")
 }
