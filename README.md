@@ -11,7 +11,7 @@
 5. Select the ZIP file mentioned in first step.
 6. Restart IntelliJ IDEA if prompted.
 
-The plugin can then be accessed from the **Git** menu group, or by searching for **Rename Commit**.
+The plugin can then be accessed from the **Git** menu group, or by searching for **Rename Current Commit**.
 
 ## Edge Cases Covered
 
@@ -51,4 +51,4 @@ cd rename-current-commit-plugin
 
 5. **Test the Plugin**
 - Open any **Git repository** in the sandbox instance.
-- Go to **Git > Rename Commit** and try renaming the commit message.
+- Go to **Git > Rename Current Commit** and try renaming the commit message.
