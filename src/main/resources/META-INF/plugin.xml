@@ -30,7 +30,7 @@
 
     <actions>
         <action class="actions.RenameCurrentCommitAction" id="actions.RenameCurrentCommitAction"
-                text="Rename Commit" description="Renaming current commit" >
+                text="Rename Current Commit" description="Renaming current commit" >
             <add-to-group group-id="VcsGroups" anchor="first"/>
         </action>
 
